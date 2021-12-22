@@ -279,19 +279,19 @@ I need to highlight these ==very important words==.
 ## Subscript
 
 ```text
-H~2~O
+H<sub>2</sub>O
 ```
 
 ### Output for subscript
 
-H~2~O
+H<sub>2</sub>O
 
 ## Superscript
 
 ```text
-X^2^
+X<sup>2</sup>
 ```
 
 ### Output for superscript
 
-X^2^
+X<sup>2</sup>
