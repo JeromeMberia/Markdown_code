@@ -75,17 +75,14 @@
 ## Code
 
 ```text
- 
- (```)this
-
- (```)this
-
+    ``` 
+    ```
 ```
 
 ### Output for code
 
 ```text
- code
+
 ```
 
 ## Horizontal Rule
@@ -133,17 +130,17 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best sea
 ## Table
 
 ```text
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Syntax    | Description | Test Text   |
+| :---      | :----:      | ---:        |
+| Header    | Title       | Here's this |
+| Paragraph | Text        | And more    |
 ```
 
 ### Output for table
 
 |Syntax|Description|Test Text|
 |:---|:----:|---:|
-|```Header```|Title|Here's this|
+|Header|Title|Here's this|
 |Paragraph|Text|And more|
 
 ## Fenced Code Block
