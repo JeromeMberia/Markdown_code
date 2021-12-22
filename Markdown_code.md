@@ -208,12 +208,22 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 ## Definition List
 
 ```text
+First Term
+: This is the definition of the first term.
 
+Second Term
+: This is one definition of the second term.
+: This is another definition of the second term.
 ```
 
 ## Output for definition list
 
->
+First Term
+: This is the definition of the first term.
+
+Second Term
+: This is one definition of the second term.
+: This is another definition of the second term.
 
 ## Strikethrough
 
@@ -240,6 +250,9 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 * [ ] Contact the media
 
 ## Emoji
+
+[Emoji List](https://gist.github.com/rxaviers/7360908 "Git repository for emoji")
+
 
 ```text
 Gone camping! :tent: Be back soon.
